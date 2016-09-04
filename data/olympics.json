@@ -1,0 +1,39 @@
+[
+	{
+		"name" : "United States",
+		"gold" : 46,
+		"silver" : 37,
+		"bronze" : 38
+	},
+	{
+		"name" : "Great Britain",
+		"gold" : 27,
+		"silver" : 27,
+		"bronze" : 17
+	},
+	{
+		"name" : "China",
+		"gold" : 26,
+		"silver" : 18,
+		"bronze" : 26
+	},
+	{
+		"name" : "Russia",
+		"gold" : 19,
+		"silver" : 18,
+		"bronze" : 19
+	},
+	{
+		"name" : "Germany",
+		"gold" : 17,
+		"silver" : 10,
+		"bronze" : 15
+	},
+	{
+		"name" : "Japan",
+		"gold" : 12,
+		"silver" : 8,
+		"bronze" : 21
+	}
+
+]
